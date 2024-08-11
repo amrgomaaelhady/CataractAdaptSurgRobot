@@ -10,9 +10,9 @@ This is the code for the IROS'24 paper "Towards a Surgeon-In-The-Loop Ophthalmic
 5. [Configuration](#configuration)
 
 ## Introduction
-This documentation accompanies the IROS'24 paper "Towards a Surgeon-In-The-Loop Ophthalmic Robotic Apprentice Using Reinforcement and Imitation Learning" which explores the transformative impact of robotics in modern surgical procedures. The primary focus is on autonomous robotic surgery systems, especially in ophthalmic cataract surgery, where precision is vital.
+This documentation accompanies the thesis titled "<b>I<sup>3</sup> Surgery: Imitation Interactive Incremental Learning for Robotics in Cataract Surgery</b>," which explores the transformative impact of robotics in modern surgical procedures. The primary focus is on autonomous robotic surgery systems, especially in ophthalmic cataract surgery, where precision is vital.
 
-This guide provides a concise overview of the code used in the research, aimed at helping researchers, developers, and practitioners understand the implementation, algorithms, and methods. By detailing the code, we hope this document supports further advancements in autonomous robotic surgery, enabling the replication and improvement of the proposed techniques in various surgical fields.
+This guide provides a concise overview of the code used in the research, aimed at helping researchers, developers, and practitioners understand the implementation, algorithms, and methods. By detailing the code, this document supports further advancements in autonomous robotic surgery, enabling the replication and improvement of the proposed techniques in various surgical fields.
 
 
 ## Project Structure
@@ -70,13 +70,13 @@ project-root/
 
 1. Install python-related prerequisites
     * Then head to this [link](https://cloud.dfki.de/owncloud/index.php/s/57qN8C4t6JydNwk) to download the entire project (alternatively, you can download all the unity prerequisites and add to designated folders as shown in the project structure)
+    * **Note that since the Eye Anatomy package is proprietary, we cannot share it directly on GitHub or in the enclosed link. However, you can contact us and if we have a confirmation that you bought it, we can share our adjusted version with you.**
     * Record your own demonstrations for Imitation Learning (or use our recorded sample of demonstrations, note that some of the recordings are suboptimum).
-2. (Purchase and) Download the Eye Anatomy animated package from the unity asset store. Then add it to it's designated folder (shown in the project structure)
-    * Note for step 2: Since the Eye Anatomy package is proprietary, we cannot share it directly on GitHub or in the enclosed link. However, you can contact us and if we have a confirmation that you bought it, we can share our adjusted version with you.
-4. Open "Main_Scene.unity" scene in the assets folder
-5. All the training's components are attached to the "agent" object in the scene
+2. (Purchase and) Download the Eye Anatomy animated package from the unity asset store. Then contact us to share our edited version with you. You could also use the low poly version instead for debugging and testing.
+3. Open "Main_Scene.unity" scene in the assets folder
+4. All the training's components are attached to the "agent" object in the scene
     * Main agent code is contained in "Assets/scripts/SurgeonAgent.cs"
-6. (Optional) Download the pre-trained models and sample demonstrations available at the same previous link. Extract the files and add them to the designated folder (shown in the project structure).
+5. (Optional) Use the pre-trained models and sample demonstrations available at the same previous link, you could also remove if not needed.
 
 
 ### To create a custom trainer:
