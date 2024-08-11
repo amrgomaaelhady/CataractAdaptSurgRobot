@@ -76,7 +76,7 @@ project-root/
 3. Open "Main_Scene.unity" scene in the assets folder
 4. All the training's components are attached to the "agent" object in the scene
     * Main agent code is contained in "Assets/scripts/SurgeonAgent.cs"
-5. (Optional) Use the pre-trained models and sample demonstrations available at the same previous link, you could also remove if not needed.
+5. (Optional) Use the pre-trained models and sample demonstrations available at the same previous link, you could also remove if not needed to reduce storage.
 
 
 ### To create a custom trainer:
