@@ -10,7 +10,7 @@ This is the code for the IROS'24 paper "Towards a Surgeon-In-The-Loop Ophthalmic
 5. [Configuration](#configuration)
 
 ## Introduction
-This documentation accompanies the thesis titled "<b>I<sup>3</sup> Surgery: Imitation Interactive Incremental Learning for Robotics in Cataract Surgery</b>," which explores the transformative impact of robotics in modern surgical procedures. The primary focus is on autonomous robotic surgery systems, especially in ophthalmic cataract surgery, where precision is vital.
+This documentation accompanies the IROS'24 paper "Towards a Surgeon-In-The-Loop Ophthalmic Robotic Apprentice Using Reinforcement and Imitation Learning" which explores the transformative impact of robotics in modern surgical procedures. The primary focus is on autonomous robotic surgery systems, especially in ophthalmic cataract surgery, where precision is vital.
 
 This guide provides a concise overview of the code used in the research, aimed at helping researchers, developers, and practitioners understand the implementation, algorithms, and methods. By detailing the code, this document supports further advancements in autonomous robotic surgery, enabling the replication and improvement of the proposed techniques in various surgical fields.
 
