@@ -70,7 +70,7 @@ project-root/
 
 1. Install python-related prerequisites
     * Then head to this [link](https://cloud.dfki.de/owncloud/index.php/s/57qN8C4t6JydNwk) to download the entire project (alternatively, you can download all the unity prerequisites and add to designated folders as shown in the project structure)
-    * **Note that since the Eye Anatomy package is proprietary, we cannot share it directly on GitHub or in the enclosed link. However, you can contact us and if we have a confirmation that you bought it, we can share our adjusted version with you.**
+    * **Note that since the Eye Anatomy package is proprietary, we cannot share it directly on GitHub or in the enclosed link. However, you can contact us (simply e-mail amr.gomaa@dfki.de) and if we have a confirmation that you bought it, we can share our adjusted version with you.**
     * Record your own demonstrations for Imitation Learning (or use our recorded sample of demonstrations, note that some of the recordings are suboptimum).
 2. (Purchase and) Download the Eye Anatomy animated package from the unity asset store. Then contact us to share our edited version with you. You could also use the low poly version instead for debugging and testing.
 3. Open "Main_Scene.unity" scene in the assets folder
