@@ -1,4 +1,4 @@
-# I<sup>3</sup> Surgery Code Documentation
+# Robotic Cataract Surgery RL and IL Agent
 
 This is the code for the IROS'24 paper "Towards a Surgeon-In-The-Loop Ophthalmic Robotic Apprentice Using Reinforcement and Imitation Learning". ArXiv version can be found [here](https://arxiv.org/abs/2311.17693).
 
