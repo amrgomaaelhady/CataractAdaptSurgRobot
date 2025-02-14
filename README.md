@@ -102,13 +102,16 @@ Configuration files in "training_configs/" follow the structure defined in [ML-A
 
 - If you find this work helpful, please cite our paper (IEEE IROS'24 citation will be updated later):
 ```
-@article{gomaa2023toward,
-  title={Toward a Surgeon-in-the-Loop Ophthalmic Robotic Apprentice using Reinforcement and Imitation Learning},
-  author={Gomaa, Amr and Mahdy, Bilal and Kleer, Niko and Kr{\"u}ger, Antonio},
-  journal={arXiv preprint arXiv:2311.17693},
-  year={2023}
-}
-
+@INPROCEEDINGS{10802574,
+  author={Gomaa, Amr and Mahdy, Bilal and Kleer, Niko and Krüger, Antonio},
+  booktitle={2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
+  title={Towards a Surgeon-in-the-Loop Ophthalmic Robotic Apprentice using Reinforcement and Imitation Learning}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={6939-6946},
+  keywords={Cataracts;Training;Laparoscopes;Medical robotics;Imitation learning;Microsurgery;Reproducibility of results;Autonomous agents;Intelligent robots},
+  doi={10.1109/IROS58592.2024.10802574}}
 ```
 - - -
 
